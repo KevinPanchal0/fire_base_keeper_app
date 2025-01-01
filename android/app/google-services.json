@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1023280091048",
+    "project_id": "fire-keepr-app",
+    "storage_bucket": "fire-keepr-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023280091048:android:405e76a9f812192ae0979d",
+        "android_client_info": {
+          "package_name": "com.example.fire_base_keeper_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023280091048-5hhq3rgdn58q07423vmhve31dm9qu8ru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fire_base_keeper_app",
+            "certificate_hash": "079073449152baaa286418bb94ec1fd7e5ef3aba"
+          }
+        },
+        {
+          "client_id": "1023280091048-je6rli34pcpt47gvh36tlpvg8jrvf03j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4883lAY___Rm0KIlzN6lTl8gImqBsjTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023280091048-je6rli34pcpt47gvh36tlpvg8jrvf03j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1023280091048-0fden3dagfa8d42quf1jukh6h0vpqel9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fireBaseKeeperApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
