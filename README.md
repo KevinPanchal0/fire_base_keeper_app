@@ -29,14 +29,9 @@ The **Firebase Keeper** project is a book management app that leverages Firebase
 ---
 
 ## Screenshots
-
-<img src="" alt="Images" width="300" height="600"> &nbsp;
-<img src="" alt="Images" width="300" height="600"> &nbsp;
-<img src="" alt="Images" width="300" height="600"> <br> <br>
-<img src="" alt="Images" width="300" height="600"> &nbsp;
-<img src="" alt="Images" width="300" height="600"> &nbsp;
-<img src="" alt="Images" width="300" height="600"> <br> <br>
-<img src="" alt="Images" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/854e2013-2b99-469e-a768-aa584d089230" alt="Images" width="300" height="600"> &nbsp;
+<img src="https://github.com/user-attachments/assets/58bf70a5-1cbe-4ea2-b7de-40e51848354c" alt="Images" width="300" height="600"> &nbsp;
+<img src="https://github.com/user-attachments/assets/7fc4f576-5ff9-4e26-95b5-2f55f2b50203" alt="Images" width="300" height="600"> <br> <br>
 
 ---
 
