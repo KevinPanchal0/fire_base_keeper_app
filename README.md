@@ -1,16 +1,66 @@
-# fire_base_keeper_app
+# Firebase Keeper
 
-A new Flutter project.
+## Project Overview
+The **Firebase Keeper** project is a book management app that leverages Firebase services for seamless functionality. It includes features like CRUD (Create, Read, Update, Delete) operations, bookmarking, and authentication to provide a comprehensive learning experience in Flutter development.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- **CRUD Operations**: Manage books with fields like Title, Author, etc., using Firebase Cloud Firestore.
+- **Bookmarks**: Bookmark or favorite books, stored in a separate Firestore collection.
+- **Authentication**:
+    - Firebase Native Authentication (Sign Up, Login, Logout).
+    - Google Sign-In for alternate login.
+- **Splash Screen**: Displays upon app launch.
+- **Introduction Screen**: Shown only on the first app launch.
+- **Theme Toggle**: Persistent light/dark mode settings saved in local storage.
+- **Architecture**: Organized using the MVC pattern for clean code management.
+- **State Management**: Implemented using Provider or GetX.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
+- **Programming Language**: Dart
+- **Framework**: Flutter
+- **Backend**: Firebase Cloud Firestore
+- **Authentication**: Firebase Auth, Google Sign-In
+- **Local Storage**: shared_preferences
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Screenshots
+
+<img src="" alt="Images" width="300" height="600"> &nbsp;
+<img src="" alt="Images" width="300" height="600"> &nbsp;
+<img src="" alt="Images" width="300" height="600"> <br> <br>
+<img src="" alt="Images" width="300" height="600"> &nbsp;
+<img src="" alt="Images" width="300" height="600"> &nbsp;
+<img src="" alt="Images" width="300" height="600"> <br> <br>
+<img src="" alt="Images" width="300" height="600">
+
+---
+
+## Project Structure
+Follows the MVC pattern:
+- **Model**: Data classes and Firebase interaction.
+- **View**: UI components.
+- **Controller**: Business logic and state management.
+
+---
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
+## Acknowledgements
+- [Firebase](https://firebase.google.com/)
+- [Flutter](https://flutter.dev/)
+- [Red & White Multimedia Education](https://www.rnwmultimedia.edu.in/)
+
+---
+
+For more details and app demonstrations, refer to the [GitHub Repository](#).
+
+Good luck coding!
+

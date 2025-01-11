@@ -67,6 +67,7 @@ class _SignUpPageState extends State<SignUpPage> {
                           content: Text("Sign Up Successfull...!"),
                           backgroundColor: Colors.green,
                         ),
+                        
                       );
                       emailController.clear();
                       passwordController.clear();
